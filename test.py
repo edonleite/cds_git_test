@@ -1,4 +1,4 @@
-def main()
+def main():
     print('Executando arquivo de teste')
 
 
